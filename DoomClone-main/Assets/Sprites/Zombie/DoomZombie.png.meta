@@ -1,0 +1,1140 @@
+fileFormatVersion: 2
+guid: 5fa5328f3ec941a48bad19cde63349de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6740305884587967884
+    second: DoomZombie_0
+  - first:
+      213: 5027610092434561307
+    second: DoomZombie_1
+  - first:
+      213: -8640284774296459557
+    second: DoomZombie_2
+  - first:
+      213: -545589780025607898
+    second: DoomZombie_3
+  - first:
+      213: 5492400965832384237
+    second: DoomZombie_4
+  - first:
+      213: 6074894811584030330
+    second: DoomZombie_5
+  - first:
+      213: 8974350823827514707
+    second: DoomZombie_6
+  - first:
+      213: 3572823905326877664
+    second: DoomZombie_7
+  - first:
+      213: 3472545943972381011
+    second: DoomZombie_8
+  - first:
+      213: 3364595250477680458
+    second: DoomZombie_9
+  - first:
+      213: 3968681990514371573
+    second: DoomZombie_10
+  - first:
+      213: 5812544855409371756
+    second: DoomZombie_11
+  - first:
+      213: 8657463838393308047
+    second: DoomZombie_12
+  - first:
+      213: 7856791130419273399
+    second: DoomZombie_13
+  - first:
+      213: 7765588444901868319
+    second: DoomZombie_14
+  - first:
+      213: 393555944109265395
+    second: DoomZombie_15
+  - first:
+      213: 9099353223111923189
+    second: DoomZombie_16
+  - first:
+      213: -9133867246322501809
+    second: DoomZombie_17
+  - first:
+      213: -3168097040982364818
+    second: DoomZombie_18
+  - first:
+      213: -5472498269141818342
+    second: DoomZombie_19
+  - first:
+      213: -4989783631660838648
+    second: DoomZombie_20
+  - first:
+      213: 4314512049102965359
+    second: DoomZombie_21
+  - first:
+      213: 2658301120733394418
+    second: DoomZombie_22
+  - first:
+      213: 3720204944243449841
+    second: DoomZombie_23
+  - first:
+      213: 2788972938442428252
+    second: DoomZombie_24
+  - first:
+      213: 5272287949195804304
+    second: DoomZombie_25
+  - first:
+      213: 3330064715947630609
+    second: DoomZombie_26
+  - first:
+      213: -7257008338315516099
+    second: DoomZombie_27
+  - first:
+      213: -140242060999610075
+    second: DoomZombie_28
+  - first:
+      213: -8273585022588011891
+    second: DoomZombie_29
+  - first:
+      213: -6796159644195350427
+    second: DoomZombie_30
+  - first:
+      213: -604882215013644523
+    second: DoomZombie_31
+  - first:
+      213: 8842671244570218083
+    second: DoomZombie_32
+  - first:
+      213: -2450506590764485993
+    second: DoomZombie_33
+  - first:
+      213: -3398758957490628916
+    second: DoomZombie_34
+  - first:
+      213: -8909176761635275619
+    second: DoomZombie_35
+  - first:
+      213: -7767259249811237759
+    second: DoomZombie_36
+  - first:
+      213: -1790966735271980480
+    second: DoomZombie_37
+  - first:
+      213: 7157840066747735227
+    second: DoomZombie_38
+  - first:
+      213: 466305232157808771
+    second: DoomZombie_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DoomZombie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8547588d706a8d50800000000000000
+      internalID: 6740305884587967884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b191bbcddb8a5c540800000000000000
+      internalID: 5027610092434561307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 476
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6e7d5a6ca871880800000000000000
+      internalID: -8640284774296459557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 479
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6297d785cfcad68f0800000000000000
+      internalID: -545589780025607898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 476
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee9374149de83c40800000000000000
+      internalID: 5492400965832384237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 476
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76645c15ac5e4450800000000000000
+      internalID: 6074894811584030330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 397
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35529ffa68c4b8c70800000000000000
+      internalID: 8974350823827514707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 397
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb480a8968359130800000000000000
+      internalID: 3572823905326877664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 396
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35182b04326f03030800000000000000
+      internalID: 3472545943972381011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 399
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4740bdcd8171be20800000000000000
+      internalID: 3364595250477680458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 394
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb691f4e37931730800000000000000
+      internalID: 3968681990514371573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 397
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a23b3ffbe4aa050800000000000000
+      internalID: 5812544855409371756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 316
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f831937ed7d752870800000000000000
+      internalID: 8657463838393308047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 315
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be9413f7ede80d60800000000000000
+      internalID: 7856791130419273399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_14
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 314
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13014afb89e4cb60800000000000000
+      internalID: 7765588444901868319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 317
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f150e7cb01367500800000000000000
+      internalID: 393555944109265395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_16
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 320
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f55465cb85674e70800000000000000
+      internalID: 9099353223111923189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 318
+        width: 75
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f473f5df12cfd3180800000000000000
+      internalID: -9133867246322501809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_18
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 235
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6da74ac688a804d0800000000000000
+      internalID: -3168097040982364818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 235
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14acd991d7cd04b0800000000000000
+      internalID: -5472498269141818342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 236
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8011cc8593ab0cab0800000000000000
+      internalID: -4989783631660838648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 238
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6acce179d930eb30800000000000000
+      internalID: 4314512049102965359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 235
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f53657f8ce24e420800000000000000
+      internalID: 2658301120733394418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 235
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff5841bfa2d0a330800000000000000
+      internalID: 3720204944243449841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 155
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fc9046c1c64b620800000000000000
+      internalID: 2788972938442428252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 157
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e736db4fdea2940800000000000000
+      internalID: 5272287949195804304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 157
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110ee193734c63e20800000000000000
+      internalID: 3330064715947630609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_27
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 157
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37e7a69d5de94b90800000000000000
+      internalID: -7257008338315516099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_28
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 157
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521bc8ba692cd0ef0800000000000000
+      internalID: -140242060999610075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_29
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 153
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a36add1425e2d80800000000000000
+      internalID: -8273585022588011891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_30
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 77
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56814eaafc03fa1a0800000000000000
+      internalID: -6796159644195350427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_31
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 77
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517092b84d60b97f0800000000000000
+      internalID: -604882215013644523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_32
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 78
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e4b2e75aa77ba70800000000000000
+      internalID: 8842671244570218083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 75
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792bab13d3d0efdd0800000000000000
+      internalID: -2450506590764485993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_34
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 77
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6189d4cbe25d0d0800000000000000
+      internalID: -3398758957490628916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_35
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c709920fe3c5480800000000000000
+      internalID: -8909176761635275619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_36
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18452a07dd6253490800000000000000
+      internalID: -7767259249811237759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04292934e353527e0800000000000000
+      internalID: -1790966735271980480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_38
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc9e89ed91c55360800000000000000
+      internalID: 7157840066747735227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoomZombie_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3881ca75326a87600800000000000000
+      internalID: 466305232157808771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2a59691adf3c7bf4c9abf29f94c6b40a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DoomZombie_0: 6740305884587967884
+      DoomZombie_1: 5027610092434561307
+      DoomZombie_10: 3968681990514371573
+      DoomZombie_11: 5812544855409371756
+      DoomZombie_12: 8657463838393308047
+      DoomZombie_13: 7856791130419273399
+      DoomZombie_14: 7765588444901868319
+      DoomZombie_15: 393555944109265395
+      DoomZombie_16: 9099353223111923189
+      DoomZombie_17: -9133867246322501809
+      DoomZombie_18: -3168097040982364818
+      DoomZombie_19: -5472498269141818342
+      DoomZombie_2: -8640284774296459557
+      DoomZombie_20: -4989783631660838648
+      DoomZombie_21: 4314512049102965359
+      DoomZombie_22: 2658301120733394418
+      DoomZombie_23: 3720204944243449841
+      DoomZombie_24: 2788972938442428252
+      DoomZombie_25: 5272287949195804304
+      DoomZombie_26: 3330064715947630609
+      DoomZombie_27: -7257008338315516099
+      DoomZombie_28: -140242060999610075
+      DoomZombie_29: -8273585022588011891
+      DoomZombie_3: -545589780025607898
+      DoomZombie_30: -6796159644195350427
+      DoomZombie_31: -604882215013644523
+      DoomZombie_32: 8842671244570218083
+      DoomZombie_33: -2450506590764485993
+      DoomZombie_34: -3398758957490628916
+      DoomZombie_35: -8909176761635275619
+      DoomZombie_36: -7767259249811237759
+      DoomZombie_37: -1790966735271980480
+      DoomZombie_38: 7157840066747735227
+      DoomZombie_39: 466305232157808771
+      DoomZombie_4: 5492400965832384237
+      DoomZombie_5: 6074894811584030330
+      DoomZombie_6: 8974350823827514707
+      DoomZombie_7: 3572823905326877664
+      DoomZombie_8: 3472545943972381011
+      DoomZombie_9: 3364595250477680458
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
